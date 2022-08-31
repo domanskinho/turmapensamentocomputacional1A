@@ -1,6 +1,17 @@
 body{
-    background-color: rgb(154, 220, 236);
+    background-color: #0ef36e;
+    text-align: justify;
 }
 h1{
     text-align: center;
+    font-size: 60;
+}
+<p{
+    text-align: justify;
+}
+#imagem1{
+    width: 900px;
+    height: 700px;
+    right: 800px;
+    top: 300px;
 }
