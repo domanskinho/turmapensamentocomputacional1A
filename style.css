@@ -1,17 +1,18 @@
 body{
-    background-color: #0ef36e;
-    text-align: justify;
+    background-color: rgb(4, 235, 177);
 }
 h1{
+    font-size: 40px;
     text-align: center;
-    font-size: 60;
 }
-<p{
+p{
     text-align: justify;
+    font-size: 20px;
+ 
 }
 #imagem1{
-    width: 900px;
-    height: 700px;
-    right: 800px;
-    top: 300px;
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    margin: 200px;
 }
